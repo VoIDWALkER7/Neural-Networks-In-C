@@ -38,7 +38,7 @@ now, if we want to view our code, or the executable file in machine code or rath
 gcc -S hello.c
 ````
 It will create a file hello.s, and when you open it, you will see something like this:
-![[Intermediate Code = Assembly Code.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Intermediate%20Code%20%3D%20Assembly%20Code.png)
 
 So, basically how it works is like this:
 - First we write the C code. 

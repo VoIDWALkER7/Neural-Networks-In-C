@@ -69,4 +69,4 @@ int main(){
 }
 
 ```
-[[Comment]] <- PREVIOUS
+[[Comment]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Comment.md) <- PREVIOUS

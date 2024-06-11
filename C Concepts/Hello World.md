@@ -25,7 +25,7 @@ The executable file is a file that is written in machine code, this is an exampl
 ![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Raw%20Machine%20Code.png)
 
 to view this image properly, we are going to use hexedit, a hex editor
-![[Hexedit Machine Code.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Hexedit%20Machine%20Code.png)
 
 When we do 
 ````bash

@@ -33,4 +33,4 @@ int main(){
 
 [[Loops]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Loops.md)←PREVIOUS
 
-NEXT → [[Arrays]] 
+NEXT → [[Arrays]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Arrays.md)

@@ -3,7 +3,7 @@ The parameters that will go in there are the renderer value, the coordinates whe
 ```C
 void render_grid(SDL_Renderer *renderer, int x, int y){  
        SDL_SetRenderDrawColor(renderer, 0x55, 0x55, 0x55, 255);  
-       int cell_size = GRID_DIM/ GRID_SIZE;  
+       int cell_size = GRID_DIM/ GRID_SIZE; 
        SDL_Rect cell;  
        cell.w = cell_size;  
        cell.h = cell_size;  

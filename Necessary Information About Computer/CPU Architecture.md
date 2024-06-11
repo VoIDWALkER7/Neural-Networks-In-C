@@ -9,7 +9,7 @@ For our first generation of neural network we will be creating CPU networks.
 - Buses : 
 	- Data Bus : 
 		- Responsible for transferring data from one location to another. 
-	- Address Bus : 
+	- Address Bus :
 		- Responsible for Bussing Addresses from one location to another
 	- Control Bus : 
 		- Responsible for Busing Control Addresses from one location to another. 

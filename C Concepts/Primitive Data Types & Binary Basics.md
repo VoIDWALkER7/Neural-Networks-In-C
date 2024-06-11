@@ -44,6 +44,8 @@ $$111 = 2^{2}* 1 + 2^{1*1}+ 2^{0 * 1}= 4 + 2 + 1 = 7$$
 - The number of columns that are used to store the binary value. For eg:
 	- For 5, the binary is 101. According to the table, it took 3 bits to store 5.
 #### ASCII Table
-![[ASCII Table.png]]
-[[Basic Syntax & Formatting]] ← PREVIOUS
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/ASCII%20Table.png)
+
+[[Basic Syntax & Formatting]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Basic%20Syntax%20%26%20Formatting.md) ← PREVIOUS
+
 NEXT → [[Operators]] 

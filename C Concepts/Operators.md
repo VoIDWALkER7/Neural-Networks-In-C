@@ -49,5 +49,7 @@ x !=0; //answer will be 1(true)
 x < y && x != 0 //answer will be 1(True)
 x > y || x != 0 //answer will be 1(True)
 ```
-[[Primitive Data Types & Binary Basics]]←PREVIOUS
+
+[[Primitive Data Types & Binary Basics]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Primitive%20Data%20Types%20&%20Binary%20Basics.md)←PREVIOUS
+
 NEXT→[[Loops]] 

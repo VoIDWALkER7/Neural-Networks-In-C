@@ -29,12 +29,17 @@ in the above code, we have used :
 - cell.w & cell.h stands for cell width, and cell height respectively. 
 - We have then used for loop to keep placing the cells at different coordinates throughout the plane. i changes the rows, while j changes the columns. 
 Output:
-![[Grid.png]]Now, to center it, we will do the follows: 
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Grid.png)
+
+Now, to center it, we will do the follows: 
 ```C
 int grid_x = (WINDOW_WIDTH/ 2) - (GRID_DIM / 2);
 int grid_y = (WINDOW_HEIGHT/ 2) - (GRID_DIM / 2);
 ```
-![[Centered Grid.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Centered%20Grid.png)
+
 To expand the grid we can just change the GRID_DIM and GRID_WIDTH accordingly. 
+
 [[SDL2]] ← PREVIOUS
+
 NEXT → [[Creating The Snake]] 

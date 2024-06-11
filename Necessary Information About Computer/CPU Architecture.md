@@ -1,5 +1,7 @@
 # CPU Architecture
-![[CPU Architecture.svg]]
+
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Necessary%20Information%20About%20Computer/CPU%20Architecture.svg)
+
 For our first generation of neural network we will be creating CPU networks. 
 ## What is a CPU
 ##### What is CPU made of?

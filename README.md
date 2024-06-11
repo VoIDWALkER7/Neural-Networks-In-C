@@ -9,4 +9,6 @@ New notes will be updated as soon as i am done with it. There's an order to star
 
 At the end of each file that you complete, you will be able to see the file that you are supposed to read after that, and the file that was before that for easy navigation.
 
-You can read the notes on github only but if you want to clone the repository, you can read the notes using Obsidian or any other markdown file editor. (Recommended: Obsidian)
+You can read the notes on github only but if you want to read it offline, you can download the notes from the drive link given below and then can read it using any Markdown editor like Obsidian(preferably). 
+
+Drive Link: [https://drive.google.com/drive/folders/15_SV-bTTqc2tfI2Xd51CPt7T7kZwNwwE?usp=sharing](https://drive.google.com/drive/folders/15_SV-bTTqc2tfI2Xd51CPt7T7kZwNwwE?usp=sharing)

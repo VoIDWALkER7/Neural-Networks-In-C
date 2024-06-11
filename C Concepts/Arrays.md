@@ -15,7 +15,7 @@ output of:
 readelf -S snake | more
 ```
 
-![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/assets/84080270/9394b90d-9e84-4f31-b71c-cd3043c9a65b)
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Readelf%20output.png)
 
  The text of our code ends up in the text section
 **rodata** stands for **readonly** data 

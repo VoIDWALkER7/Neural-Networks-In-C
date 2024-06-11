@@ -48,4 +48,4 @@ $$111 = 2^{2}* 1 + 2^{1*1}+ 2^{0 * 1}= 4 + 2 + 1 = 7$$
 
 [[Basic Syntax & Formatting]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Basic%20Syntax%20%26%20Formatting.md) ← PREVIOUS
 
-NEXT → [[Operators]] 
+NEXT → [[Operators]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Operators.md)

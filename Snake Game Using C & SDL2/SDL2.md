@@ -130,5 +130,7 @@ in this code, we have used SDL_Event
 - SDL_PumpEvents functions updates the event queue, but the code works well without it as well, because we are now using  SDL_Event, that is able to keep track of the events. 
 - SDL_QUIT is the case where you press on the X button in the title bar to quit the app
 - SDL_KEYUP is the case where no key is being pressed
-- SDL_KEYDOWN is the case where a key is being pressed, now inside that case we have another switch case, which represents the case SDLK_ESCAPE, which is the case in which the Esc key is being pressed. it will lead to the exit of the application. 
-NEXT –> [[Creating a Grid]] 
+- SDL_KEYDOWN is the case where a key is being pressed, now inside that case we have another switch case, which represents the case SDLK_ESCAPE, which is the case in which the Esc key is being pressed. it will lead to the exit of the application.
+
+
+NEXT –> [[Creating a Grid]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Creating%20a%20Grid.md)

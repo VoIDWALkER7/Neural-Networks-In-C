@@ -43,7 +43,7 @@ There are 3 parts of transistors:
 - Base
 - Collector
 - Emitter
-![[Transistor.svg]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Necessary%20Information%20About%20Computer/Transistor.svg)
 
 | IN | OUT |
 |:---|:----|
@@ -55,7 +55,7 @@ There are 3 parts of transistors:
 When there’s low voltage flowing through the base, current won’t flow between the collector and the emitter. 
 When there’s high voltage flowing through the base, current is allowed to flow into the collector. As long as current is flowing into the collector, it will flow into the emitter, hence it will be the output. 
 
-![[Transistor Circuit.png]]
+![image]()
 - In the image above, there are 3 transistors interconnected with each other. 
 - The output from the first transistors takes place as the input for the input voltage for the third transistor. 
 - The output from the second transistor is going to be used as continuous current voltage for the third transistor. 

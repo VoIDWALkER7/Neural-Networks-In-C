@@ -120,3 +120,5 @@ void move_snake(){
 ```
 
 [[Creating a Grid]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Creating%20a%20Grid.md) <- PREVIOUS
+
+NEXT -> [[Generating the Apple]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Generating%20the%20Apple.md)

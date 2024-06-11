@@ -7,7 +7,7 @@
 	CFLAGS = -Wno-implicit-function-declaration
 	
 	all:final
-	
+
 	final: main.o hello.o
 		@echo "Compiling the final application"
 		gcc $(CFLAGS) main.o hello.o -o final

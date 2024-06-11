@@ -42,4 +42,4 @@ To expand the grid we can just change the GRID_DIM and GRID_WIDTH accordingly.
 
 [[SDL2]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/SDL2.md) ← PREVIOUS
 
-NEXT → [[Creating The Snake]] 
+NEXT → [[Creating The Snake]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Creating%20The%20Snake.md)

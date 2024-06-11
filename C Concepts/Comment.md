@@ -30,5 +30,7 @@ int main(){
 	//the code above prints a square made of + signs. 
 }
 ```
-[[Loops]]←PREVIOUS
+
+[[Loops]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Loops.md)←PREVIOUS
+
 NEXT → [[Arrays]] 

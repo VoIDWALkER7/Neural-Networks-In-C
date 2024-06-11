@@ -68,5 +68,5 @@ int main(){
 }
 ```
 
-[[Hello World]] ← PREVIOUS
+[[Hello World]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Hello%20World.md) ← PREVIOUS
 NEXT → [[Primitive Data Types & Binary Basics]]

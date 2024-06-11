@@ -7,7 +7,9 @@
 	- **char** - size 1 byte (Characters)
 	- **double** - size 8 bytes ( It’s an extension of float, and well, it takes more space than that. )
 	- **long double** - size 16 bytes ( well, extension of double, and you know why it’s long. )
-![[Data Types Size.png]]
+ - 
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Data%20Types%20Size.png)
+
 ## Binary
 - The numbers we usually know of our base 10. Base 10 means there are basically 10 unique symbols that can be used to generate numbers or alphabets using ascii system, or basically anything. 
 - For base 10, we can divide the numbers using the concept of 1s, 10s, 100s, for example, in case of 101, we can do the following: 

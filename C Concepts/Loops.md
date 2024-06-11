@@ -123,9 +123,11 @@ int main(){
 
 ```
 this is the code for this:
+
 ![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/The%20pattern.png)
 
 we can also form shapes like this by just adding a space after + in “+”: 
+
 ![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Pyramid.png)
 
 [[Operators]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Operators.md)← Previous

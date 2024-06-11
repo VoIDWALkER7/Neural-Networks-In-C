@@ -22,7 +22,7 @@ gcc hello.c
 where, hello.c is the name of the file. 
 
 The executable file is a file that is written in machine code, this is an example of how it appears to be. 
-![[Raw Machine Code.png]]
+![image](Raw Machine Code.png)
 
 to view this image properly, we are going to use hexedit, a hex editor
 ![[Hexedit Machine Code.png]]

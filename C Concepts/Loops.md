@@ -132,4 +132,4 @@ we can also form shapes like this by just adding a space after + in “+”:
 
 [[Operators]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Operators.md)← Previous
 
-NEXT → [[Comment]] 
+NEXT → [[Comment]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Comment.md)

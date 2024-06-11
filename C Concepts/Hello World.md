@@ -64,6 +64,7 @@ int main(){
 }
 ```
  - From { to } is known as function definition. 
-NEXT –> [[Basic Syntax & Formatting]]
+
+NEXT –> [[Basic Syntax & Formatting]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Basic%20Syntax%20%26%20Formatting.md)
 
 

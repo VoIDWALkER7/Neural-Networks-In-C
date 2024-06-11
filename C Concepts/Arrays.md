@@ -15,8 +15,9 @@ output of:
 readelf -S snake | more
 ```
 
-![[Readelf output.png]]
- the text of our code ends up in the text section
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/assets/84080270/9394b90d-9e84-4f31-b71c-cd3043c9a65b)
+
+ The text of our code ends up in the text section
 **rodata** stands for **readonly** data 
 --------------------------------------------------------------------------------------------------------------------------------------–
 if you write an index that is out of bounds, the C program will still run but it will give random outputs depending on the position of the memory. 
@@ -68,3 +69,4 @@ int main(){
 }
 
 ```
+[[Comment]] <- PREVIOUS

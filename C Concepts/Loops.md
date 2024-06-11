@@ -81,7 +81,7 @@ for (int i = 10; i > 0 ; i -= 1){
 	printf("+");
 }
 ```
-![[update form output check.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/update%20form%20output%20check.png)
 works just the same. 
 any operator can work just the same. 
 We also have other ways to write the operators.
@@ -102,7 +102,7 @@ for (int i = 10; i > 0; i-- ){
 	printf("\n");
 }
 ```
-![[Nested For Loop output.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Nested%20For%20Loop%20output.png)
 - The one with the variable i is the outer loop, while the one with the variable j is the inner loop. 
 - The outerloop first goes on to the inner loop and then the inner loop is executed first and after that after exiting the loop, the line after the loop is exited and so on until the outer loop is exited or restarted. The cycle continues. 
 ```C

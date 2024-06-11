@@ -69,8 +69,10 @@ void render_snake(SDL_Renderer *renderer){
         }
 }
 ```
-	![[Rendered Snake.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/Snake%20Game%20Using%20C%20%26%20SDL2/Rendered%20Snake.png)
+
 the above snake is after the increase_size function was run 3 times. 
+
 There are other functions as well: 
 ```C
 void move_snake(){

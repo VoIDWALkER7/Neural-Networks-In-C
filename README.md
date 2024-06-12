@@ -6,6 +6,7 @@ New notes will be updated as soon as i am done with it. There's an order to star
   - For ```Deployment, Compilation, Updatation, Automation``` start with ```Make Files.md```
   - For ```Necessary Information About Computer``` start with ```CPU Architecture.md```
   - For ```Snake Game Using C & SDL2``` start with ```SDL2.md```
+  - For ```Neural Concepts``` start with ```Perceptron Basics```
 
 At the end of each file that you complete, you will be able to see the file that you are supposed to read after that, and the file that was before that for easy navigation.
 

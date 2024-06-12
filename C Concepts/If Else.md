@@ -32,5 +32,6 @@ else{
 ```
 There can be many else if statements in a if else block but only one if and else statement will be there dictating the start and the end of the block. 
 
-[[Inputs]] ← PREVIOUS
-NEXT → [[Arrays]]
+[[Inputs]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/Inputs.md) ← PREVIOUS
+
+NEXT → [[Arrays]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/Arrays.md)

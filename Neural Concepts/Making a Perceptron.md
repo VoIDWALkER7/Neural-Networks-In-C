@@ -178,5 +178,5 @@ OUTPUT:
 > This happened because when i typed scanf, during setting up the format of input, i typed “%c” without the space. It led the computer to not understand that it needs to skip whitespaces. So when i added “ %c” instead of the previous one, it started to ignore the whitespaces as it was taking them as inputs automatically and waited for my input.
 
 
-[[Perceptron]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/Neural%20Concepts/Perceptrons%20Basics.md) <- PREVIOUS
+[[Perceptrons Basics]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/Neural%20Concepts/Perceptrons%20Basics.md) <- PREVIOUS
 

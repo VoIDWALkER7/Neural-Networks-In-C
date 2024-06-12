@@ -7,7 +7,7 @@ to access the values according to index, we will do it similarly to how we do it
 ```C
 printf("\n %d",x[1]);
 ```
-------------------------------------------------------------------------------------------------------------------------------------–
+------------------------------------------------------------------------------------------------------------------------------------–----------------------------------------------------------------
 Extra information: 
 to read the .out file more comprehensibly, we can use a tool called readelf (ELF stands for Executable Linked File)
 output of: 

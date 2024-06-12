@@ -167,7 +167,9 @@ else{
 }
 ```
 OUTPUT:
+
 ![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/Neural%20Concepts/Job%20output.png)
+
 
 > [!NOTE] Errors Encountered
 > When i was typing the inputs, the 2nd and 4th questions won’t register any input and would automatically move to the next questions. 

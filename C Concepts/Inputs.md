@@ -29,7 +29,7 @@ int main(){
 
 ```
 Output: 
-![[7 X 3.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/7%20X%203.png)
 
 We can also write the code in the following way: 
 ```C

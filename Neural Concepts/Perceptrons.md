@@ -1,4 +1,5 @@
-![[Perceptron.png]]
+![image](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/Neural%20Concepts/Perceptron.png)
+
 To understand perceptrons, we have this diagram in front of us. 
 In here, P is a perceptron and “Better Salary” and “Travel Time” are binary based inputs. 
 Here, those inputs are being multiplied by weight which is set according to the importance of the input to determining the prediction. Like for this example: 

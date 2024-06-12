@@ -47,6 +47,6 @@ int main(){
 }
 ```
 Output: 
-![[7 X 8.png]]
+![images](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/7%20X%208.png)
 [[Comment]] ← PREVIOUS
 NEXT → [[If Else]] 

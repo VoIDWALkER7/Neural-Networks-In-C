@@ -72,4 +72,4 @@ int main(){
 }
 
 ```
-[[Comment]](https://github.com/VoIDWALkER7/Neural-Networks-In-C/blob/main/C%20Concepts/Comment.md) <- PREVIOUS
+[[If Else]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/If%20Else.md) <- PREVIOUS

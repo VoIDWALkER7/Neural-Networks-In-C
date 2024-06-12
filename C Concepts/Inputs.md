@@ -48,5 +48,7 @@ int main(){
 ```
 Output: 
 ![images](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/7%20X%208.png)
-[[Comment]] ← PREVIOUS
-NEXT → [[If Else]] 
+
+[[Comment]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/Comment.md) ← PREVIOUS
+
+NEXT → [[If Else]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/If%20Else.md)

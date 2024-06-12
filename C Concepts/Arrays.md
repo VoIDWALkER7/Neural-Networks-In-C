@@ -7,7 +7,8 @@ to access the values according to index, we will do it similarly to how we do it
 ```C
 printf("\n %d",x[1]);
 ```
-------------------------------------------------------------------------------------------------------------------------------------–----------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------–------------------------------------------------------------
+
 Extra information: 
 to read the .out file more comprehensibly, we can use a tool called readelf (ELF stands for Executable Linked File)
 output of: 
@@ -19,7 +20,9 @@ readelf -S snake | more
 
  The text of our code ends up in the text section
 **rodata** stands for **readonly** data 
---------------------------------------------------------------------------------------------------------------------------------------–
+
+--------------------------------------------------------------------------------------------------------------------------------------–----------------------------------------------------------
+
 if you write an index that is out of bounds, the C program will still run but it will give random outputs depending on the position of the memory. 
 
 Everytime the array is initiated, we will get a different output of out of bounds index because every time the array is being stored at a different position. 

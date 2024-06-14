@@ -53,4 +53,4 @@ We use * operator to say that the variable is a pointer to the address.
 
 So, * is the reference operator and & is the address operator in the above program.
 
-[[Arrays]] ← PREVIOUS
+[[Arrays]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/C%20Concepts/Arrays.md) ← PREVIOUS

@@ -180,3 +180,5 @@ OUTPUT:
 
 [[Perceptrons Basics]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/Neural%20Concepts/Perceptrons%20Basics.md) <- PREVIOUS
 
+NEXT -> [[Perceptron Refactored]]
+

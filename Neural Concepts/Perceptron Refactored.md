@@ -291,4 +291,4 @@ and to run the code after that, you run:
 ./a.out
 ```
 
-[[Making a Perceptron]] ← PREVIOUS
+[[Making a Perceptron]](https://github.com/VoIDWALkER7/Neural-Networks-In-C-Notes/blob/main/Neural%20Concepts/Making%20a%20Perceptron.md) ← PREVIOUS
